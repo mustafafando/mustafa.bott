@@ -1,6 +1,7 @@
 owner=416567959067033601
-prefix=a
-game=aplay
+prefix=ش
+prefix=p
+game=
 stayinchannel=true
 songinstatus=false
 token=NTQyNzY0MzE4MjE1NjM0OTY0.DzywbQ.QiXu0GvWaIlF1G4-mH5-86WtSQM
