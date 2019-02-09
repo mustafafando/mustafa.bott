@@ -1,6 +1,6 @@
 owner=416567959067033601
 prefix=ش
-prefix=p
+prefix=-
 game= welcome to SYG
 stayinchannel=true
 songinstatus=false
