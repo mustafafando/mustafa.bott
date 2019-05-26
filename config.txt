@@ -1,6 +1,6 @@
 owner=416567959067033601
 prefix=ش
-prefix=-
+prefix=x
 game= xMx Music
 stayinchannel=true
 songinstatus=false
